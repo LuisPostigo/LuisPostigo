@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Luis Postigo banner" width="100%" />
+  <img src="assets/pixel_art_banner.png" alt="Luis Postigo banner" width="100%" />
 </p>
 
 <h3 align="center">Hi, I’m Luis Postigo 👋</h3>
