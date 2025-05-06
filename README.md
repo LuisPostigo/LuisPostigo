@@ -27,7 +27,7 @@
 ### 📌 Pinned Projects
 | Repo | What it is |
 |------|------------|
-| **MAS-Portfol.io** | Multi-agent system that scores dev portfolios using local LLMs & RabbitMQ |
+| **Portfol.io** | Multi-agent system that scores dev portfolios using local LLMs & RabbitMQ |
 | **ThermoDust** | FEM + Mie-theory model for thermochromic space dust trajectories |
 | **TagIt** | AI-powered inventory app using QR codes & image retrieval |
 | **OpticalKit** | Fast C++ optical-property solver with Python bindings |
