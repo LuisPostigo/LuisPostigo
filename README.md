@@ -6,9 +6,7 @@
 <h3 align="center">Luis Postigo</h3>
 
 <p align="center">
-  <em>
-    Software developer & aerospace engineer exploring the edge between machine learning and orbital mechanics.
-  </em>
+  <em>Software engineer · engineering autonomy for complex systems</em>
 </p>
 
 <p align="center">
