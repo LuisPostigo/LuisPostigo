@@ -5,15 +5,18 @@
 
 <h3 align="center">Hi, I’m Luis Postigo!</h3>
 <p align="center">
-  <em>Software developer & aerospace engineer exploring the edge between machine learning and orbital mechanics.</em>
+  <em>
+    Software developer & aerospace engineer exploring the edge between machine learning and orbital mechanics.
+    · <a href="https://luispostigo.github.io/">Portfolio</a>
+  </em>
 </p>
 
 ---
 
 ### About me
--   B.S. Aerospace Engineering · B.S. (in-progress) Software Engineering  
--   Researching thermochromic particles for space-debris mitigation  
--   Favorite tools: `PyTorch`, `TensorFlow`, `C++/Eigen`, `RabbitMQ`, `React`
+- B.S. Aerospace Engineering · B.S. (in-progress) Software Engineering  
+- Researching thermochromic particles for space-debris mitigation  
+- Favorite tools: `PyTorch`, `TensorFlow`, `C++/Eigen`, `RabbitMQ`, `React`
 
 ### Tech stack
 <p align="left">
@@ -26,7 +29,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
-
 
 ### Pinned Projects
 | Repo | What it is |
