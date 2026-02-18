@@ -3,12 +3,16 @@
   <img src="assets/main_banner_pixelart.png" alt="Luis Postigo banner" width="100%" />
 </p>
 
-<h3 align="center">Hi, I’m Luis Postigo!</h3>
+<h3 align="center">Luis Postigo</h3>
+
 <p align="center">
   <em>
     Software developer & aerospace engineer exploring the edge between machine learning and orbital mechanics.
-    · <a href="https://luispostigo.github.io/">Portfolio</a>
   </em>
+</p>
+
+<p align="center">
+  <a href="https://luispostigo.github.io/">luispostigo.github.io</a>
 </p>
 
 ---
