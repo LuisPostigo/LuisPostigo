@@ -2,9 +2,9 @@
 
 Software engineer. Engineering autonomy for complex systems.
 
-I build simulation engines, multi-agent systems, and backend-heavy applications where architecture actually matters.
+I build simulation engines, multi-agent systems, and backend-heavy applications where architecture matters.
 
-Background in aerospace engineering, but my focus is software — performance, structure, and systems that scale.
+My background is in aerospace engineering, but my focus is software: performance, structure, and systems that scale.
 
 Portfolio → https://luispostigo.github.io/
 
@@ -60,3 +60,8 @@ AI-assisted inventory tracking with QR indexing and retrieval.
 **OpticalKit**  
 C++ optical solver with Python bindings.
 
+---
+
+## Contact
+
+postigolm@gmail.com or lzp0040@auburn.edu
