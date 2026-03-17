@@ -1,10 +1,8 @@
 # Hi, I'm Luis Postigo!
 
-Software engineer. Engineering autonomy for complex systems.
+I'm a software engineer with an aerospace engineering background, working on simulation, optimization, and distributed systems.
 
-I build simulation engines, multi-agent systems, and backend-heavy applications where architecture matters.
-
-My background is in aerospace engineering, but my focus is software: performance, structure, and systems that scale.
+My work focuses on building structured, high-performance software for technically demanding applications.
 
 Portfolio → https://luispostigo.github.io/
 
