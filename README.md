@@ -1,25 +1,27 @@
-Luis Postigo
+Hi, I’m Luis 👋
 
-Software engineer with a background in aerospace engineering. I work on simulation, optimization, and distributed systems, mostly using Python and C++.
+I’m a software engineer with a background in aerospace engineering, interested in simulation, optimization, and distributed systems.
 
-I’m interested in numerical methods, high-performance computing, and building software around complex engineering problems.
+I mostly work with Python and C++, building everything from scientific computing tools to full-stack applications.
 
-Portfolio · Email
+You can learn more about me and my work on my portfolio.
 
 Projects
 
-* Portfol.io — Multi-agent system for evaluating developer portfolios using local LLMs and message queues.
-* ThermoDust — Thermal and orbital simulation of particles in space.
-* TagIt — Inventory management with QR-based tracking and AI-assisted search.
-* OpticalKit — Optical solver written in C++ with Python bindings.
+* Portfol.io — Multi-agent system for evaluating developer portfolios using local LLMs.
+* ThermoDust — Thermal and orbital simulation framework.
+* TagIt — Inventory management with QR tracking and AI-assisted search.
+* OpticalKit — C++ optical solver with Python bindings.
 
-Tools
+Tech Stack
 
 Languages: Python, C++, TypeScript
 Backend: RabbitMQ, SQLite
 Frontend: React
 ML: PyTorch, TensorFlow
 
-Currently
+Get in touch
 
-Working on multi-agent architectures, scientific computing, and performance-oriented software.
+Feel free to reach out!
+
+Email · Portfolio
