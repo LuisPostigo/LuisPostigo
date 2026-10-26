@@ -1,65 +1,25 @@
-# Hi, I'm Luis Postigo!
+Luis Postigo
 
-I'm a software engineer with an aerospace engineering background, working on simulation, optimization, and distributed systems.
+Software engineer with a background in aerospace engineering. I work on simulation, optimization, and distributed systems, mostly using Python and C++.
 
-My work focuses on building structured, high-performance software for technically demanding applications.
+I’m interested in numerical methods, high-performance computing, and building software around complex engineering problems.
 
-Portfolio → https://luispostigo.github.io/
+Portfolio · Email
 
----
+Projects
 
-## What I'm building
+* Portfol.io — Multi-agent system for evaluating developer portfolios using local LLMs and message queues.
+* ThermoDust — Thermal and orbital simulation of particles in space.
+* TagIt — Inventory management with QR-based tracking and AI-assisted search.
+* OpticalKit — Optical solver written in C++ with Python bindings.
 
-- Multi-agent systems using local LLMs and message queues  
-- High-performance simulation tools (C++ / Python)  
-- Full-stack apps with strong backend foundations  
+Tools
 
----
+Languages: Python, C++, TypeScript
+Backend: RabbitMQ, SQLite
+Frontend: React
+ML: PyTorch, TensorFlow
 
-## Stack
+Currently
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</p>
-
-### Backend & Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb"/>
-</p>
-
-### ML & Modeling
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white"/>
-</p>
-
----
-
-## Selected Projects
-
-**Portfol.io**  
-Multi-agent system that evaluates developer portfolios using local models and structured pipelines.
-
-**ThermoDust**  
-Thermal + orbital simulation framework for modeling particle behavior.
-
-**TagIt**  
-AI-assisted inventory tracking with QR indexing and retrieval.
-
-**OpticalKit**  
-C++ optical solver with Python bindings.
-
----
-
-## Contact
-
-postigolm@gmail.com or lzp0040@auburn.edu
+Working on multi-agent architectures, scientific computing, and performance-oriented software.
