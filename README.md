@@ -24,4 +24,4 @@ Get in touch
 
 Feel free to reach out!
 
-Email · Portfolio
+[Portfolio](https://luispostigo.github.io/) · [Email](mailto:postigolm@gmail.com)
